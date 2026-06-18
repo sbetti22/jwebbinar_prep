@@ -1,0 +1,10 @@
+jwst
+ipython
+ipympl
+ipywidgets
+jupyter
+matplotlib
+pandas
+astroquery
+pysiaf
+jhat
